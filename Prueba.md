@@ -1,2 +1,0 @@
-# Prometeo
-Programación y MPO
