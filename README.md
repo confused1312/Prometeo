@@ -1,2 +1,2 @@
-# Prometeo
+# Proyectos
 Programación y MPO
